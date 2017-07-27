@@ -1,0 +1,8 @@
+[package]
+name = "group_pal"
+version = "0.1.0"
+authors = ["smores"]
+
+[dependencies]
+serde_json = "1.0.0"
+curl = "0.4.8"

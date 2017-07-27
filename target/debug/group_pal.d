@@ -1,0 +1,1 @@
+C:\Users\sammo\Documents\MEGA\Misc\ Coding\Rust\group_pal\target\debug\group_pal.exe: C:\Users\sammo\Documents\MEGA\Misc\ Coding\Rust\group_pal\src\lib.rs C:\Users\sammo\Documents\MEGA\Misc\ Coding\Rust\group_pal\src\main.rs C:\Users\sammo\Documents\MEGA\Misc\ Coding\Rust\group_pal\src\config.rs
